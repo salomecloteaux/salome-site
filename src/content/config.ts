@@ -12,7 +12,7 @@ const seoSchema = z.object({
     pageType: z.enum(['website', 'article']).default('website')
 });
 
-const article = defineCollection({
+const articles = defineCollection({
     schema: z.object({
         title: z.string(),
         excerpt: z.string().optional(),
@@ -41,4 +41,4 @@ const projects = defineCollection({
     })
 });
 
-export const collections = { article, pages, projects };
+export const collections = { articles, pages, projects };

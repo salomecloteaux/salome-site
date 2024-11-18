@@ -81,7 +81,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Independent Journalist and French(wo)man.',
+        title: 'Independent Journalist, French(wo)man and Ayman-hater.',
         text: "I'm **Salome Cloteaux**, a web journalist at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my writing endeavors on <a href='https://bsky.app'>Bluesky</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
         image: {
             src: '/hero.jpeg',

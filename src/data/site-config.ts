@@ -32,7 +32,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Salome Cloteaux',
-    subtitle: 'Independent Journalist | Ex-EIC of the IDS',
+    subtitle: 'Independent Journalist',
     description: 'My digital home.',
     image: {
         src: '/dante-preview.jpg',
@@ -81,10 +81,10 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Independent Journalist, French(wo)man and Ayman-hater.',
-        text: "I'm **Salome Cloteaux**, a web journalist at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my writing endeavors on <a href='https://bsky.app'>Bluesky</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Independent Journalist, French Midwesterner',
+        text: "I'm **Salome Cloteaux**, a journalist recently graduated from Indiana University with degrees in journalism and political science. Feel free to explore some of my writing endeavors on <a href='https://bsky.app'>Bluesky</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
         image: {
-            src: '/hero.jpeg',
+            src: '/salomesitephoto1.png',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [

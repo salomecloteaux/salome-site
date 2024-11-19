@@ -8,7 +8,7 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/salomesitephoto2.png)
 
 ## Lorem Ipsum - Professional based in Consectetur
 **Greetings!** I'm Salome Cloteaux, a passionate professional residing in the picturesque landscapes of [Consectetur](https://en.wikipedia.org/wiki/Consectetur). With a keen eye for innovation and a love for crafting seamless experiences, I bring a unique blend of creativity and technical expertise to the world of digital solutions.

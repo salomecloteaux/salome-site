@@ -31,7 +31,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Salome Cloteaux',
+    title: 'Salomé Cloteaux',
     subtitle: 'Independent Journalist',
     description: 'My digital home.',
     image: {
@@ -82,7 +82,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Independent Journalist, French Midwesterner',
-        text: "I'm **Salome Cloteaux**, a journalist recently graduated from Indiana University with degrees in journalism and political science. Feel free to explore some of my writing endeavors on <a href='https://bsky.app'>Bluesky</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "I'm **Salomé Cloteaux**, a journalist recently graduated from Indiana University with degrees in journalism and political science. Feel free to explore some of my writing endeavors on <a href='https://bsky.app'>Bluesky</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
         image: {
             src: '/salomesitephoto1 copie.png',
             alt: 'A person sitting at a desk in front of a computer'

@@ -81,7 +81,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Independent Journalist, French Midwesterner',
+        title: 'Independent Journalist',
         text: "I'm **Salomé Cloteaux**, a journalist recently graduated from Indiana University with degrees in journalism and political science. Feel free to explore some of my writing endeavors on <a href='https://bsky.app'>Bluesky</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
         image: {
             src: '/salomesitephoto1 copie.png',
